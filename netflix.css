@@ -1,0 +1,86 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+.bkgrnd_img{
+    height: 700px;
+    border-bottom: 8px solid #222;
+    background-image: linear-gradient(to top, rgba(10, 10, 10, 0.7),rgba(10, 10, 10, 0.7)),
+    url('../images/Netflix.jpg');
+}
+.drpdn_1{
+    border-radius: 0;
+    background-color: black; 
+}
+.sigin{
+    background-color: #e50914;
+}
+.btn_1{
+    margin: 10px;   
+}
+.wall_txt{
+    text-align: center;
+    color: white;
+}
+.hed_1{
+    font-size: 60px;
+    font-weight: bolder;
+    margin-top: 10%;
+}
+.subhed_1{
+    font-size: 30px;
+}
+.subhed_2{
+    font-size: 20px;
+    line-height: 2;
+}
+.ent_email{
+    display: inline-block;
+    width: 300px;
+}
+.get_strt{
+    display: inline-block;
+    background-color: #e50914;
+    width: 200px;
+}
+.blk_back_1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: auto;
+    border-bottom: 8px solid #222;
+
+}
+.blk_hed{
+    max-width: 500px;
+}
+.faq{
+    font-size: 65px;
+    font-weight: bolder;
+    line-height: 2;
+}
+
+.accordion-body{
+    background-color: #222;
+    color: white;
+    font-size: 30px;
+    }
+    
+.accordion-flush{
+    width: 60%;
+    margin: auto;
+}
+.blk_back_2{
+    background-color: black;
+    color: gray;
+    height: auto;
+    font-weight: bold;
+    
+}
+.footer{
+    text-decoration: none;
+    color: gray;
+    font-weight: bold;
+    margin-left: 40px;
+
+}
